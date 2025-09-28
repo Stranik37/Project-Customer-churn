@@ -29,4 +29,12 @@
   </ol>
 </section>
 <h3>Исходный датасет: https://drive.google.com/drive/folders/1wryYVoBAKZaPO8mneiwOR1PYQAh01_xW?usp=drive_link</h3>
+<section>
+  <h3>Описание файлов в репозитории</h3>
+  <ul>
+    <li>main.py - основной файл с кодом на языке Python</li>
+    <li>finish_churn.csv - готовая таблица с финальными данными</li>
+    <li>ottok_customer.png - диаграмма оттока клиентов по ключевым факторам</li>
+  </ul>
+</section>
 <h3>P.S.В проекте использовались не все факторы для анализа, а лишь часть из них</h3>
